@@ -1,0 +1,5 @@
+com\javadev\inventoryservice\repository\InventoryRepository.class
+com\javadev\inventoryservice\model\Inventory.class
+com\javadev\inventoryservice\InventoryServiceApplication.class
+com\javadev\inventoryservice\controller\InventoryController.class
+com\javadev\inventoryservice\service\InventoryService.class

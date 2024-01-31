@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.javadev.inventoryservice.InventoryServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.549 s -- in com.javadev.inventoryservice.InventoryServiceApplicationTests

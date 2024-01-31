@@ -1,0 +1,10 @@
+com\javadev\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\javadev\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\javadev\productservice\dto\ProductResponse.class
+com\javadev\productservice\service\ProductService.class
+com\javadev\productservice\controller\ProductController.class
+com\javadev\productservice\model\Product.class
+com\javadev\productservice\respository\ProductRepository.class
+com\javadev\productservice\dto\ProductRequest.class
+com\javadev\productservice\model\Product$ProductBuilder.class
+com\javadev\productservice\ProductServiceApplication.class
